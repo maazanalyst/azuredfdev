@@ -1,0 +1,9 @@
+{
+	"name": "mz-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6161d980-11ee-4f17-9141-e6873aa9c1af",
+		"tenantId": "e77151a5-ccca-4f94-91c3-8899653de95d"
+	}
+}
