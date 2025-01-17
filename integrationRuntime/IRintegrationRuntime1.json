@@ -1,0 +1,6 @@
+{
+	"name": "IRintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
